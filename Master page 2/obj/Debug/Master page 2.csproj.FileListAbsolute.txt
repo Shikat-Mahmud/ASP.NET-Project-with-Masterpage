@@ -1,0 +1,73 @@
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Master page 2.dll.config
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Master page 2.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Master page 2.pdb
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\csc.exe
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\csc.exe.config
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\csc.rsp
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\csi.exe
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\csi.exe.config
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\csi.rsp
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.Managed.Core.targets
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.AppContext.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Collections.Immutable.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Console.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Globalization.Calendars.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.IO.Compression.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.IO.Compression.ZipFile.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.IO.FileSystem.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Net.Http.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Net.Sockets.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Reflection.Metadata.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.ValueTuple.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Xml.XmlDocument.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Xml.XPath.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\vbc.exe
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\vbc.exe.config
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\vbc.rsp
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\VBCSCompiler.exe
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\roslyn\VBCSCompiler.exe.config
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Antlr3.Runtime.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\AspNet.ScriptManager.jQuery.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Microsoft.AspNet.FriendlyUrls.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Microsoft.ScriptManager.MSAjax.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Microsoft.ScriptManager.WebForms.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Microsoft.Web.Infrastructure.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Newtonsoft.Json.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\System.Web.Optimization.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\WebGrease.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\System.Web.Optimization.xml
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Newtonsoft.Json.xml
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Antlr3.Runtime.pdb
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Microsoft.AspNet.FriendlyUrls.xml
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\obj\Debug\Master page 2.csproj.AssemblyReference.cache
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\obj\Debug\Master page 2.csproj.CoreCompileInputs.cache
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\obj\Debug\Master page 2.csproj.CopyComplete
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\obj\Debug\Master page 2.dll
+S:\RK University\6th Semester\ASP.NET\TSEE\Master page 2\Master page 2\obj\Debug\Master page 2.pdb
